@@ -8,3 +8,4 @@
 
 # Kernel modules in /system
 /system/lib/modules(/.*)?    u:object_r:system_file:s0
+#
